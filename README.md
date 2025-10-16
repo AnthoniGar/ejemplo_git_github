@@ -4,7 +4,7 @@
 ejemplo de git y github
 ## Tables
 
-|               |                    |
+
 | ------------- |:---------------:   |
 | Carnet        | 201805850          |
 | Nombre        | Anthoni Garcia     |
